@@ -1,0 +1,38 @@
+{
+    "students": [
+        {
+            "student_id": "B",
+            "teachers": [ 
+                {
+                    "teacher_id": "t1",
+                    "domains": [
+                        {
+                            "domain": "activity",
+                            "scores": 
+                            {
+                                "entry-score": {
+                                    "dates": [
+                                        {
+                                            "date": "29/04/2021",
+                                            "score": "10",
+                                        }
+                                    ]
+                                },
+                                "follow-up-score":
+                                {
+                                    "dates:": [
+                                        {
+                                            "date": "",
+                                            "score": "",
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            
+            ]
+        }
+    ],
+}
