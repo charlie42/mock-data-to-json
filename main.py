@@ -8,19 +8,23 @@ def read_categories_json(categories_json_path):
         mydict = {rows[1]:rows[0] for rows in reader}
         return mydict
 
+def dict_with_only_domains(input_dict, domains):
+    return {key: input_dict[key] for key in domains if key in input_dict}
+
 def csv_to_json(csvFilePath, json_file_path, categories_dict):
     json_array = []
     json_final = {}
     json_final["students"] = []
 
     categories = set(categories_dict.values())
+    domains = set(categories_dict.keys())
       
     # read csv file
     with open(csv_file_path) as csvf: 
         csv_reader = csv.DictReader(csvf) 
         for row in csv_reader: 
             json_array.append(row)
-  
+      
     # merge by student id
     student_ids = set([d['learner_id'] for d in json_array])
     for student_id in student_ids:
@@ -47,8 +51,10 @@ def csv_to_json(csvFilePath, json_file_path, categories_dict):
                     nested_data.append(dict(item))
             date_object["nested_data"] = nested_data
             student["dates"].append(dict(date_object))
+        student.pop("nested_data", None)
 
-        # merge by teachers
+    # merge by student/date/teacher
+    for student in json_final["students"]:
         for date in student["dates"]:
             teachers = set([d['teacher_id'] for d in date["nested_data"]])
             date["teachers"] = []
@@ -61,26 +67,37 @@ def csv_to_json(csvFilePath, json_file_path, categories_dict):
                         nested_data = item
                 teacher_object["nested_data"] = nested_data
                 date["teachers"].append(dict(teacher_object))
-
-            # merge by categories 
+            date.pop("nested_data", None)
+    
+    # get domain scores  
+    for student in json_final["students"]:
+        for date in student["dates"]:  
             for teacher in date["teachers"]:
-                domains = teacher["nested_data"].keys()
-                teacher["categories"] = []
-                for category in categories_dict:
-                    print(category)
+                teacher["domains"] = []
+                # remove teacher id etc from nested data, only leave domains
+                teacher["nested_data"] = dict_with_only_domains(teacher["nested_data"], domains)
+                for domain in domains:
+                    domain_object = {}
+                    domain_object["domain"] = domain
+                    for key, value in teacher["nested_data"].items():
+                        if key == domain:
+                            domain_object["entry-level-score"] = value
+                    teacher["domains"].append(dict(domain_object))
+                teacher.pop("nested_data", None)
+    print(json.dumps(json_final, indent=4))
             
     # write json
     with open(json_file_path, 'w') as jsonf: 
         json_string = json.dumps(json_array, indent=4)
         jsonf.write(json_string)
 
-    print(json.dumps(json_final, indent=4))
+    #print(json.dumps(json_final, indent=4))
           
 csv_file_path = r'entry-level.csv'
 json_file_path = r'output.json'
 categories_json_path = r'categories.csv'
 categories_dict = read_categories_json(categories_json_path)
 csv_to_json(csv_file_path, json_file_path, categories_dict)
-print("categories")
-print(categories_dict)
+#print("categories")
+#print(categories_dict)
 

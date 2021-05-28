@@ -1,0 +1,10 @@
+teacher_id,learner_id,activity_end_time,activity,habits and repetitive behaviours
+t1,B,29/04/2021,10,5
+t1,B,02/05/2021,8,0
+t1,F,02/05/2021,10,0
+t2,B,29/04/2021,9,4
+t2,F,02/05/2021,10,2
+t2,B,02/05/2021,8,0
+t3,B,29/04/2021,9,5
+t3,F,02/05/2021,2,0
+t3,B,02/05/2021,8,0
