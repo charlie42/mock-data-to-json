@@ -88,7 +88,7 @@ def csv_to_json(csvFilePath, json_file_path, categories_dict):
             
     # write json
     with open(json_file_path, 'w') as jsonf: 
-        json_string = json.dumps(json_array, indent=4)
+        json_string = json.dumps(json_final, indent=4)
         jsonf.write(json_string)
 
     #print(json.dumps(json_final, indent=4))
