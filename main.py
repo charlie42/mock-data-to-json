@@ -11,13 +11,19 @@ def read_categories_json(categories_json_path):
 def dict_with_only_domains(input_dict, domains):
     return {key: input_dict[key] for key in domains if key in input_dict}
 
-def csv_to_json(csvFilePath, json_file_path, categories_dict):
+def write_json_to_file(json_dict, json_file_path):
+    # write json
+    with open(json_file_path, 'w') as jsonf: 
+        json_string = json.dumps(json_dict, indent=4)
+        jsonf.write(json_string)
+
+def entry_level_to_json(csv_file_path, categories_dict):
     json_array = []
     json_final = {}
     json_final["students"] = []
 
     categories = set(categories_dict.values())
-    domains = set(categories_dict.keys())
+    domain_list = set(categories_dict.keys())
       
     # read csv file
     with open(csv_file_path) as csvf: 
@@ -52,52 +58,51 @@ def csv_to_json(csvFilePath, json_file_path, categories_dict):
             date_object["nested_data"] = nested_data
             student["dates"].append(dict(date_object))
         student.pop("nested_data", None)
+    
+    print(json.dumps(json_final, indent=4))
 
-    # merge by student/date/teacher
+    # get student/date/domain
     for student in json_final["students"]:
         for date in student["dates"]:
-            teachers = set([d['teacher_id'] for d in date["nested_data"]])
-            date["teachers"] = []
-            for teacher in teachers:
-                teacher_object = {}
-                teacher_object["teacher_id"] = teacher
-                nested_data = {}
-                for item in date["nested_data"]:
-                    if item["teacher_id"] == teacher:
-                        nested_data = item
-                teacher_object["nested_data"] = nested_data
-                date["teachers"].append(dict(teacher_object))
-            date.pop("nested_data", None)
-    
-    # get domain scores  
-    for student in json_final["students"]:
-        for date in student["dates"]:  
-            for teacher in date["teachers"]:
-                teacher["domains"] = []
-                # remove teacher id etc from nested data, only leave domains
-                teacher["nested_data"] = dict_with_only_domains(teacher["nested_data"], domains)
-                for domain in domains:
-                    domain_object = {}
-                    domain_object["domain"] = domain
-                    for key, value in teacher["nested_data"].items():
-                        if key == domain:
-                            domain_object["entry-level-score"] = value
-                    teacher["domains"].append(dict(domain_object))
-                teacher.pop("nested_data", None)
+            nested_data = []
+            for item in date["nested_data"]:
+                for key, value in item.items():
+                    if key in domain_list:
+                        domain_object = {}
+                        domain_object["domain"] = key
+                        domain_object["teacher_id"] = item["teacher_id"]
+                        domain_object["entry-level-score"] = value
+                        nested_data.append(dict(domain_object))
+            date["nested_data"] = nested_data
     print(json.dumps(json_final, indent=4))
-            
-    # write json
-    with open(json_file_path, 'w') as jsonf: 
-        json_string = json.dumps(json_final, indent=4)
-        jsonf.write(json_string)
 
-    #print(json.dumps(json_final, indent=4))
+    # aggregate domain scores by teacher
+    for student in json_final["students"]:
+        for date in student["dates"]:
+            teacher_id_list = set([d['teacher_id'] for d in date["nested_data"]])
+            date["domains"] = []
+            for domain in domain_list:
+                domain_object = {}
+                domain_object["domain"] = domain
+                domain_object["teachers"] = [{"teacher_id":teacher_id} for teacher_id in teacher_id_list]
+                for item in date["nested_data"]:
+                    if item["domain"] == domain:
+                        # look for the corresponding teacher item in domains/teachers
+                        for teacher in domain_object["teachers"]:
+                            if teacher["teacher_id"] == item["teacher_id"]:
+                                teacher["entry-level-score"] = item["entry-level-score"]
+                date["domains"].append(dict(domain_object))
+            date.pop("nested_data", None)
+    print(json.dumps(json_final, indent=4))
+
+    return json_final      
           
-csv_file_path = r'entry-level.csv'
+csv_file_path = r'entry-level-smaller.csv'
 json_file_path = r'output.json'
 categories_json_path = r'categories.csv'
 categories_dict = read_categories_json(categories_json_path)
-csv_to_json(csv_file_path, json_file_path, categories_dict)
+entry_level_json = entry_level_to_json(csv_file_path, categories_dict)
+write_json_to_file(entry_level_json, json_file_path)
 #print("categories")
 #print(categories_dict)
 

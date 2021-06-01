@@ -1,1621 +1,616 @@
 {
     "students": [
         {
-            "student_id": "A", 
-            "dates": [
-                {
-                    "date": "02/05/2021", 
-                    "teachers": [
-                        {
-                            "teacher_id": "t2", 
-                            "domains": [
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "perseverance"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "learning new things"
-                                }
-                            ]
-                        }, 
-                        {
-                            "teacher_id": "t3", 
-                            "domains": [
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "perseverance"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning new things"
-                                }
-                            ]
-                        }, 
-                        {
-                            "teacher_id": "t1", 
-                            "domains": [
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "perseverance"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "learning new things"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }, 
-        {
-            "student_id": "C", 
-            "dates": [
-                {
-                    "date": "02/05/2021", 
-                    "teachers": [
-                        {
-                            "teacher_id": "t2", 
-                            "domains": [
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "perseverance"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning new things"
-                                }
-                            ]
-                        }, 
-                        {
-                            "teacher_id": "t3", 
-                            "domains": [
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "perseverance"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "sexual behavior"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning new things"
-                                }
-                            ]
-                        }, 
-                        {
-                            "teacher_id": "t1", 
-                            "domains": [
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "perseverance"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "learning new things"
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        }, 
-        {
             "student_id": "B", 
             "dates": [
                 {
                     "date": "02/05/2021", 
-                    "teachers": [
+                    "domains": [
                         {
-                            "teacher_id": "t2", 
-                            "domains": [
+                            "domain": "perseverance", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }, 
                         {
-                            "teacher_id": "t3", 
-                            "domains": [
+                            "domain": "sexual behavior", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }, 
                         {
-                            "teacher_id": "t1", 
-                            "domains": [
+                            "domain": "speech articulation", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech articulation"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "impulsivity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "impulsivity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "stress level"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "stress level", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "sleep"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "gross motor skills"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sleep", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "substance abuse"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "gross motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "integrity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "irritability"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "confidence"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "following rules"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "substance abuse", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "speech quantity"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "integrity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "understanding concepts"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "processing speed"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "irritability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "creativity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "fears/worries"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "confidence", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "1", 
-                                    "domain": "writing"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "memory"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "following rules", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "emotional stability"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "reading"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "mood", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "math"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "3", 
-                                    "domain": "academic performance/aptitude"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "speech quantity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "1", 
-                                    "domain": "risk taking"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "activity"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "understanding concepts", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "habits and repetitive behaviours"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "attention"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "processing speed", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "diet"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "creativity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "social behaviour"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fears/worries", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "temperament"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "planning and organization"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "writing", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "empathy"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "language"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "memory", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "complains of pain"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "emotional stability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "fine motor skills"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "responsibility"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "reading", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "6", 
-                                    "domain": "cooperativeness"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "math", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "academic performance/aptitude", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "risk taking", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "activity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "habits and repetitive behaviours", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "attention", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "diet", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sexual identity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social behaviour", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "temperament", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "planning and organization", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "empathy", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "language", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "hygiene", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "complains of pain", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fine motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "responsibility", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "cooperativeness", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning new things", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }
@@ -1623,535 +618,612 @@
                 }, 
                 {
                     "date": "29/04/2021", 
-                    "teachers": [
+                    "domains": [
                         {
-                            "teacher_id": "t2", 
-                            "domains": [
+                            "domain": "perseverance", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "6", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "4", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "6", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "11", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }, 
                         {
-                            "teacher_id": "t3", 
-                            "domains": [
+                            "domain": "sexual behavior", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }, 
                         {
-                            "teacher_id": "t1", 
-                            "domains": [
+                            "domain": "speech articulation", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "speech articulation"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "impulsivity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "impulsivity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "stress level"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "stress level", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "sleep"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "2", 
-                                    "domain": "gross motor skills"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sleep", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "learning"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "substance abuse"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "gross motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "integrity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "irritability"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "confidence"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "1", 
-                                    "domain": "following rules"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "substance abuse", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "mood"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "speech quantity"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "integrity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "understanding concepts"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "processing speed"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "irritability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "creativity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "fears/worries"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "confidence", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "2", 
-                                    "domain": "writing"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "memory"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "following rules", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "emotional stability"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "reading"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "mood", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "math"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "2", 
-                                    "domain": "academic performance/aptitude"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "speech quantity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "risk taking"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "activity"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "understanding concepts", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "habits and repetitive behaviours"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "attention"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "processing speed", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "social skills"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "creativity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual identity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "social behaviour"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fears/worries", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "7", 
-                                    "domain": "temperament"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "planning and organization"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "writing", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "empathy"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "language"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "memory", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "hygiene"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "complains of pain"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "emotional stability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "1", 
-                                    "domain": "fine motor skills"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "6", 
-                                    "domain": "responsibility"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "reading", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "cooperativeness"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "math", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "academic performance/aptitude", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "risk taking", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "activity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "habits and repetitive behaviours", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "attention", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "diet", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sexual identity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social behaviour", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "temperament", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "planning and organization", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "empathy", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "language", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "hygiene", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "complains of pain", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fine motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "responsibility", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "cooperativeness", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning new things", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }
@@ -2164,535 +1236,612 @@
             "dates": [
                 {
                     "date": "02/05/2021", 
-                    "teachers": [
+                    "domains": [
                         {
-                            "teacher_id": "t2", 
-                            "domains": [
+                            "domain": "perseverance", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "2", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "6", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "2", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }, 
                         {
-                            "teacher_id": "t3", 
-                            "domains": [
+                            "domain": "sexual behavior", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "speech articulation"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "impulsivity"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "stress level"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "sleep"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "gross motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "learning"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "substance abuse"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "integrity"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "irritability"
-                                }, 
-                                {
-                                    "entry-level-score": "1", 
-                                    "domain": "confidence"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "following rules"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "mood"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "speech quantity"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "understanding concepts"
-                                }, 
-                                {
-                                    "entry-level-score": "9", 
-                                    "domain": "processing speed"
-                                }, 
-                                {
-                                    "entry-level-score": "10", 
-                                    "domain": "creativity"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "fears/worries"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "writing"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "memory"
-                                }, 
-                                {
-                                    "entry-level-score": "7", 
-                                    "domain": "emotional stability"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "reading"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "math"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "academic performance/aptitude"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "risk taking"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "activity"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "habits and repetitive behaviours"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "attention"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "social skills"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "sexual identity"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "social behaviour"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "temperament"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "planning and organization"
-                                }, 
-                                {
-                                    "entry-level-score": "3", 
-                                    "domain": "empathy"
-                                }, 
-                                {
-                                    "entry-level-score": "2", 
-                                    "domain": "language"
-                                }, 
-                                {
-                                    "entry-level-score": "0", 
-                                    "domain": "hygiene"
-                                }, 
-                                {
-                                    "entry-level-score": "6", 
-                                    "domain": "complains of pain"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "fine motor skills"
-                                }, 
-                                {
-                                    "entry-level-score": "8", 
-                                    "domain": "responsibility"
-                                }, 
-                                {
-                                    "entry-level-score": "4", 
-                                    "domain": "cooperativeness"
-                                }, 
-                                {
-                                    "entry-level-score": "5", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }, 
                         {
-                            "teacher_id": "t1", 
-                            "domains": [
+                            "domain": "speech articulation", 
+                            "teachers": [
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "perseverance"
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "sexual behavior"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "speech articulation"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "impulsivity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "impulsivity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "stress level"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "stress level", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "sleep"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "gross motor skills"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sleep", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "learning"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "substance abuse"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "gross motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "integrity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "irritability"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "confidence"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "4", 
-                                    "domain": "following rules"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "substance abuse", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "mood"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "speech quantity"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "integrity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "understanding concepts"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "processing speed"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "irritability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "creativity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "fears/worries"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "confidence", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "writing"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "memory"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "following rules", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "emotional stability"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "reading"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "mood", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "math"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "academic performance/aptitude"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "speech quantity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "8", 
-                                    "domain": "risk taking"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "activity"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "understanding concepts", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "habits and repetitive behaviours"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "attention"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "processing speed", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "social skills"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "5", 
-                                    "domain": "diet"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "creativity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "sexual identity"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "social behaviour"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fears/worries", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "temperament"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "2", 
-                                    "domain": "planning and organization"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "writing", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "3", 
-                                    "domain": "empathy"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "9", 
-                                    "domain": "language"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "memory", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "hygiene"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "complains of pain"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "emotional stability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "7", 
-                                    "domain": "fine motor skills"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "responsibility"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "reading", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
                                 }, 
                                 {
-                                    "entry-level-score": "0", 
-                                    "domain": "cooperativeness"
+                                    "teacher_id": "t3"
                                 }, 
                                 {
-                                    "entry-level-score": "10", 
-                                    "domain": "learning new things"
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "math", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "academic performance/aptitude", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "risk taking", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "activity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "habits and repetitive behaviours", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "attention", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "diet", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sexual identity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social behaviour", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "temperament", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "planning and organization", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "empathy", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "language", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "hygiene", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "complains of pain", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fine motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "responsibility", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "cooperativeness", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning new things", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2"
+                                }, 
+                                {
+                                    "teacher_id": "t3"
+                                }, 
+                                {
+                                    "teacher_id": "t1"
                                 }
                             ]
                         }
