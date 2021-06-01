@@ -97,7 +97,7 @@ def entry_level_to_json(csv_file_path, categories_dict):
 
     return json_final      
           
-csv_file_path = r'entry-level-smaller.csv'
+csv_file_path = r'entry-level.csv'
 json_file_path = r'output.json'
 categories_json_path = r'categories.csv'
 categories_dict = read_categories_json(categories_json_path)

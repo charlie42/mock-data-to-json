@@ -1,6 +1,1488 @@
 {
     "students": [
         {
+            "student_id": "A", 
+            "dates": [
+                {
+                    "date": "02/05/2021", 
+                    "domains": [
+                        {
+                            "domain": "perseverance", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sexual behavior", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "speech articulation", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "impulsivity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "stress level", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "7"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sleep", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "7"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "7"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "gross motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "substance abuse", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "integrity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "irritability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "confidence", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "6"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "following rules", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "mood", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "speech quantity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "understanding concepts", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "processing speed", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "creativity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fears/worries", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "writing", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "1"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "memory", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "emotional stability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "7"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "reading", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "7"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "math", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "academic performance/aptitude", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "risk taking", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "activity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "7"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "habits and repetitive behaviours", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "attention", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "diet", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sexual identity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social behaviour", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "7"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "temperament", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "planning and organization", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "empathy", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "language", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "hygiene", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "complains of pain", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "7"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fine motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "responsibility", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "cooperativeness", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning new things", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "student_id": "C", 
+            "dates": [
+                {
+                    "date": "02/05/2021", 
+                    "domains": [
+                        {
+                            "domain": "perseverance", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sexual behavior", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "speech articulation", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "6"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "impulsivity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "6"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "stress level", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sleep", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "gross motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "substance abuse", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "integrity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "irritability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "confidence", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "6"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "following rules", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "mood", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "6"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "speech quantity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "understanding concepts", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "processing speed", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "creativity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fears/worries", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "writing", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "memory", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "4"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "emotional stability", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "reading", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "math", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "academic performance/aptitude", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "risk taking", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "activity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "habits and repetitive behaviours", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "attention", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "diet", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "sexual identity", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "social behaviour", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "6"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "temperament", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "planning and organization", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "empathy", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "language", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "hygiene", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "complains of pain", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "fine motor skills", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "4"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "responsibility", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "cooperativeness", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "4"
+                                }
+                            ]
+                        }, 
+                        {
+                            "domain": "learning new things", 
+                            "teachers": [
+                                {
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
+                                }, 
+                                {
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
             "student_id": "B", 
             "dates": [
                 {
@@ -10,13 +1492,16 @@
                             "domain": "perseverance", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -24,13 +1509,16 @@
                             "domain": "sexual behavior", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -38,13 +1526,16 @@
                             "domain": "speech articulation", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -52,13 +1543,16 @@
                             "domain": "impulsivity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -66,13 +1560,16 @@
                             "domain": "stress level", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -80,13 +1577,16 @@
                             "domain": "sleep", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -94,13 +1594,16 @@
                             "domain": "gross motor skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -108,13 +1611,16 @@
                             "domain": "learning", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -122,13 +1628,16 @@
                             "domain": "substance abuse", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -136,13 +1645,16 @@
                             "domain": "integrity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -150,13 +1662,16 @@
                             "domain": "irritability", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -164,13 +1679,16 @@
                             "domain": "confidence", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -178,13 +1696,16 @@
                             "domain": "following rules", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -192,13 +1713,16 @@
                             "domain": "mood", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -206,13 +1730,16 @@
                             "domain": "speech quantity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -220,13 +1747,16 @@
                             "domain": "understanding concepts", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -234,13 +1764,16 @@
                             "domain": "processing speed", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -248,13 +1781,16 @@
                             "domain": "creativity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -262,13 +1798,16 @@
                             "domain": "fears/worries", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -276,13 +1815,16 @@
                             "domain": "writing", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "1"
                                 }
                             ]
                         }, 
@@ -290,13 +1832,16 @@
                             "domain": "memory", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -304,13 +1849,16 @@
                             "domain": "emotional stability", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -318,13 +1866,16 @@
                             "domain": "reading", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -332,13 +1883,16 @@
                             "domain": "math", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -346,13 +1900,16 @@
                             "domain": "academic performance/aptitude", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "3"
                                 }
                             ]
                         }, 
@@ -360,13 +1917,16 @@
                             "domain": "risk taking", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "1"
                                 }
                             ]
                         }, 
@@ -408,13 +1968,16 @@
                             "domain": "attention", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -422,13 +1985,16 @@
                             "domain": "social skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -436,13 +2002,16 @@
                             "domain": "diet", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -450,13 +2019,16 @@
                             "domain": "sexual identity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -464,13 +2036,16 @@
                             "domain": "social behaviour", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -478,13 +2053,16 @@
                             "domain": "temperament", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -492,13 +2070,16 @@
                             "domain": "planning and organization", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -506,13 +2087,16 @@
                             "domain": "empathy", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -520,13 +2104,16 @@
                             "domain": "language", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -534,13 +2121,16 @@
                             "domain": "hygiene", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -548,13 +2138,16 @@
                             "domain": "complains of pain", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -562,13 +2155,16 @@
                             "domain": "fine motor skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -576,13 +2172,16 @@
                             "domain": "responsibility", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -590,13 +2189,16 @@
                             "domain": "cooperativeness", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "6"
                                 }
                             ]
                         }, 
@@ -604,13 +2206,16 @@
                             "domain": "learning new things", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }
@@ -623,13 +2228,16 @@
                             "domain": "perseverance", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -637,13 +2245,16 @@
                             "domain": "sexual behavior", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -651,13 +2262,16 @@
                             "domain": "speech articulation", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -665,13 +2279,16 @@
                             "domain": "impulsivity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -679,13 +2296,16 @@
                             "domain": "stress level", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -693,13 +2313,16 @@
                             "domain": "sleep", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -707,13 +2330,16 @@
                             "domain": "gross motor skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
                                 }
                             ]
                         }, 
@@ -721,13 +2347,16 @@
                             "domain": "learning", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -735,13 +2364,16 @@
                             "domain": "substance abuse", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -749,13 +2381,16 @@
                             "domain": "integrity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -763,13 +2398,16 @@
                             "domain": "irritability", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -777,13 +2415,16 @@
                             "domain": "confidence", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -791,13 +2432,16 @@
                             "domain": "following rules", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "1"
                                 }
                             ]
                         }, 
@@ -805,13 +2449,16 @@
                             "domain": "mood", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -819,13 +2466,16 @@
                             "domain": "speech quantity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "11"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -833,13 +2483,16 @@
                             "domain": "understanding concepts", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -847,13 +2500,16 @@
                             "domain": "processing speed", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -861,13 +2517,16 @@
                             "domain": "creativity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -875,13 +2534,16 @@
                             "domain": "fears/worries", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -889,13 +2551,16 @@
                             "domain": "writing", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
                                 }
                             ]
                         }, 
@@ -903,13 +2568,16 @@
                             "domain": "memory", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -917,13 +2585,16 @@
                             "domain": "emotional stability", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -931,13 +2602,16 @@
                             "domain": "reading", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -945,13 +2619,16 @@
                             "domain": "math", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -959,13 +2636,16 @@
                             "domain": "academic performance/aptitude", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
                                 }
                             ]
                         }, 
@@ -973,13 +2653,16 @@
                             "domain": "risk taking", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1021,13 +2704,16 @@
                             "domain": "attention", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -1035,13 +2721,16 @@
                             "domain": "social skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1049,13 +2738,16 @@
                             "domain": "diet", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1063,13 +2755,16 @@
                             "domain": "sexual identity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1077,13 +2772,16 @@
                             "domain": "social behaviour", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1091,13 +2789,16 @@
                             "domain": "temperament", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "7"
                                 }
                             ]
                         }, 
@@ -1105,13 +2806,16 @@
                             "domain": "planning and organization", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1119,13 +2823,16 @@
                             "domain": "empathy", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1133,13 +2840,16 @@
                             "domain": "language", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1147,13 +2857,16 @@
                             "domain": "hygiene", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1161,13 +2874,16 @@
                             "domain": "complains of pain", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -1175,13 +2891,16 @@
                             "domain": "fine motor skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "1"
                                 }
                             ]
                         }, 
@@ -1189,13 +2908,16 @@
                             "domain": "responsibility", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "6"
                                 }
                             ]
                         }, 
@@ -1203,13 +2925,16 @@
                             "domain": "cooperativeness", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -1217,13 +2942,16 @@
                             "domain": "learning new things", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }
@@ -1241,13 +2969,16 @@
                             "domain": "perseverance", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1255,13 +2986,16 @@
                             "domain": "sexual behavior", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1269,13 +3003,16 @@
                             "domain": "speech articulation", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1283,13 +3020,16 @@
                             "domain": "impulsivity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1297,13 +3037,16 @@
                             "domain": "stress level", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1311,13 +3054,16 @@
                             "domain": "sleep", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1325,13 +3071,16 @@
                             "domain": "gross motor skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1339,13 +3088,16 @@
                             "domain": "learning", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1353,13 +3105,16 @@
                             "domain": "substance abuse", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1367,13 +3122,16 @@
                             "domain": "integrity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1381,13 +3139,16 @@
                             "domain": "irritability", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1395,13 +3156,16 @@
                             "domain": "confidence", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1409,13 +3173,16 @@
                             "domain": "following rules", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "4"
                                 }
                             ]
                         }, 
@@ -1423,13 +3190,16 @@
                             "domain": "mood", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1437,13 +3207,16 @@
                             "domain": "speech quantity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1451,13 +3224,16 @@
                             "domain": "understanding concepts", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1465,13 +3241,16 @@
                             "domain": "processing speed", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -1479,13 +3258,16 @@
                             "domain": "creativity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1493,13 +3275,16 @@
                             "domain": "fears/worries", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -1507,13 +3292,16 @@
                             "domain": "writing", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1521,13 +3309,16 @@
                             "domain": "memory", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1535,13 +3326,16 @@
                             "domain": "emotional stability", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1549,13 +3343,16 @@
                             "domain": "reading", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1563,13 +3360,16 @@
                             "domain": "math", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -1577,13 +3377,16 @@
                             "domain": "academic performance/aptitude", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -1591,13 +3394,16 @@
                             "domain": "risk taking", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "8"
                                 }
                             ]
                         }, 
@@ -1639,13 +3445,16 @@
                             "domain": "attention", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1653,13 +3462,16 @@
                             "domain": "social skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1667,13 +3479,16 @@
                             "domain": "diet", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "5"
                                 }
                             ]
                         }, 
@@ -1681,13 +3496,16 @@
                             "domain": "sexual identity", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1695,13 +3513,16 @@
                             "domain": "social behaviour", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }, 
@@ -1709,13 +3530,16 @@
                             "domain": "temperament", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "1"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1723,13 +3547,16 @@
                             "domain": "planning and organization", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "2"
                                 }
                             ]
                         }, 
@@ -1737,13 +3564,16 @@
                             "domain": "empathy", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "4"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "3"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "3"
                                 }
                             ]
                         }, 
@@ -1751,13 +3581,16 @@
                             "domain": "language", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "9"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "9"
                                 }
                             ]
                         }, 
@@ -1765,13 +3598,16 @@
                             "domain": "hygiene", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "2"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1779,13 +3615,16 @@
                             "domain": "complains of pain", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "6"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1793,13 +3632,16 @@
                             "domain": "fine motor skills", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "7"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "7"
                                 }
                             ]
                         }, 
@@ -1807,13 +3649,16 @@
                             "domain": "responsibility", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "8"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1821,13 +3666,16 @@
                             "domain": "cooperativeness", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "0"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "4"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "0"
                                 }
                             ]
                         }, 
@@ -1835,13 +3683,16 @@
                             "domain": "learning new things", 
                             "teachers": [
                                 {
-                                    "teacher_id": "t2"
+                                    "teacher_id": "t2", 
+                                    "entry-level-score": "10"
                                 }, 
                                 {
-                                    "teacher_id": "t3"
+                                    "teacher_id": "t3", 
+                                    "entry-level-score": "5"
                                 }, 
                                 {
-                                    "teacher_id": "t1"
+                                    "teacher_id": "t1", 
+                                    "entry-level-score": "10"
                                 }
                             ]
                         }
