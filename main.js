@@ -55,6 +55,16 @@ function groupByCategory(obj, categoryDictList) {
     return obj
 }
 
+function aggregateScoresByCategory(obj) {
+    return obj
+}
+
+function writeToFile(obj, outputFilePath) {
+    var json = JSON.stringify(obj);
+    fs.writeFileSync(outputFilePath, json, 'utf8');
+}
+
+
 function getValuesFromDictList(categoryDictList) {
     return categoryDictList.map(function(obj) {
         return obj.category;
@@ -75,6 +85,7 @@ obj = groupByTeacher(obj)
 //console.log(util.inspect(obj, false, null, true /* enable colors */))
 
 categoriesFilePath = "categories.csv"
+outputFilePath = "aggregated.json"
 let categoryDictList = []
 fs.createReadStream(categoriesFilePath)
     .pipe(csv())
@@ -85,6 +96,10 @@ fs.createReadStream(categoriesFilePath)
         //console.log("categoryDict", categoryDictList)
         obj = groupByCategory(obj, categoryDictList)
         console.log(util.inspect(obj, false, null, true /* enable colors */))
+
+        obj = aggregateScoresByCategory(obj)
+
+        writeToFile(obj, outputFilePath)
 
     });
 
