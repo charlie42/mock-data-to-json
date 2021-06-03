@@ -229,9 +229,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 4, 
+                                    "follow_up_score": 8, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
@@ -240,9 +241,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 9, 
+                                    "follow_up_score": 4, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }
                             ]
@@ -354,9 +356,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 6, 
+                                    "follow_up_score": 3, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -365,9 +368,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 2, 
-                                    "follow_up_score": 11, 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -419,9 +423,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "8", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "follow_up_score": 6, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -618,9 +623,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 5, 
+                                    "follow_up_score": 3, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -629,9 +635,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "2", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 2, 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -743,9 +750,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 5, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 6, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
@@ -754,9 +762,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 6, 
+                                    "follow_up_score": 9, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }
                             ]
@@ -766,9 +775,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "2", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "follow_up_score": 5, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -777,9 +787,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "2", 
-                                    "follow_up_severity": 2, 
-                                    "follow_up_score": 11, 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -1840,23 +1851,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "0", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 6, 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "0", 
                                     "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "entry_level_score": "0", 
+                                    "follow_up_score": 5, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "0", 
                                     "follow_up_severity": 1, 
-                                    "follow_up_score": 6, 
+                                    "entry_level_score": "0", 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -1900,23 +1914,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 2, 
-                                    "follow_up_score": 11, 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 2, 
-                                    "follow_up_score": 11, 
+                                    "follow_up_score": 1, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "1", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 4, 
+                                    "entry_level_score": "1", 
+                                    "follow_up_score": 1, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -1960,23 +1977,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "8", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "follow_up_score": 5, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 1, 
-                                    "follow_up_score": 5, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 8, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 4, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -1986,23 +2006,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 2, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 8, 
+                                    "follow_up_score": 11, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "9", 
                                     "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "entry_level_score": "9", 
+                                    "follow_up_score": 8, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "9", 
                                     "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "entry_level_score": "9", 
+                                    "follow_up_score": 5, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -2029,23 +2052,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 5, 
+                                    "follow_up_score": 8, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "follow_up_score": 6, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "1", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 6, 
+                                    "entry_level_score": "1", 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }
                             ]
@@ -2191,23 +2217,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 2, 
-                                    "follow_up_score": 10, 
+                                    "follow_up_score": 8, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 2, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 8, 
+                                    "follow_up_score": 11, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 1, 
+                                    "follow_up_score": 9, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -2336,23 +2365,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 2, 
+                                    "follow_up_score": 8, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 9, 
+                                    "follow_up_score": 0, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 2, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "follow_up_score": 11, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -2585,23 +2617,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "2", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 5, 
+                                    "entry_level_score": "2", 
+                                    "follow_up_score": 1, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "2", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 5, 
+                                    "entry_level_score": "2", 
+                                    "follow_up_score": 3, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "1", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }
                             ]
@@ -2662,23 +2697,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "0", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "0", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 5, 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "0", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 3, 
+                                    "entry_level_score": "0", 
+                                    "follow_up_score": 4, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -2722,9 +2760,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "2", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 1, 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -2733,9 +2772,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "2", 
                                     "follow_up_severity": 0, 
+                                    "entry_level_score": "2", 
                                     "follow_up_score": 0, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -2779,9 +2819,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "9", 
                                     "follow_up_severity": 0, 
+                                    "entry_level_score": "9", 
                                     "follow_up_score": 1, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -2790,9 +2831,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "9", 
                                     "follow_up_severity": 1, 
-                                    "follow_up_score": 6, 
+                                    "entry_level_score": "9", 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -2802,23 +2844,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 6, 
+                                    "follow_up_score": 4, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 2, 
-                                    "follow_up_score": 11, 
+                                    "follow_up_score": 9, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -2845,23 +2890,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "0", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 4, 
+                                    "entry_level_score": "0", 
+                                    "follow_up_score": 3, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "0", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 8, 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "0", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "follow_up_score": 5, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }
                             ]
@@ -3007,9 +3055,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 0, 
+                                    "entry_level_score": "8", 
                                     "follow_up_score": 3, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -3018,9 +3067,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 4, 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -3132,23 +3182,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 3, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 6, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "10", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 3, 
+                                    "entry_level_score": "10", 
+                                    "follow_up_score": 1, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 5, 
+                                    "follow_up_score": 9, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }
                             ]
@@ -3158,23 +3211,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "9", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 1, 
+                                    "entry_level_score": "9", 
+                                    "follow_up_score": 3, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "follow_up_score": 4, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 1, 
+                                    "follow_up_score": 9, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -3416,9 +3472,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 1, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 0, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
@@ -3483,23 +3540,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 2, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 2, 
+                                    "follow_up_score": 10, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "9", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 3, 
+                                    "entry_level_score": "9", 
+                                    "follow_up_score": 4, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "9", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "follow_up_score": 0, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -3543,9 +3603,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 2, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 8, 
+                                    "follow_up_score": 10, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -3554,9 +3615,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "10", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 0, 
+                                    "entry_level_score": "10", 
+                                    "follow_up_score": 3, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -3600,23 +3662,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 8, 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t3", 
+                                    "follow_up_severity": 2, 
                                     "entry_level_score": "2", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "follow_up_score": 10, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 6, 
+                                    "follow_up_score": 4, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -3630,16 +3695,18 @@
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 3, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 1, 
-                                    "follow_up_score": 7, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 8, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -3666,23 +3733,26 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "9", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 6, 
+                                    "entry_level_score": "9", 
+                                    "follow_up_score": 3, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t3", 
-                                    "entry_level_score": "8", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 1, 
+                                    "entry_level_score": "8", 
+                                    "follow_up_score": 6, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 1, 
                                     "entry_level_score": "8", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 5, 
+                                    "follow_up_score": 9, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }
                             ]
@@ -3828,9 +3898,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "2", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 1, 
+                                    "entry_level_score": "2", 
+                                    "follow_up_score": 0, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -3839,9 +3910,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "2", 
                                     "follow_up_severity": 1, 
-                                    "follow_up_score": 8, 
+                                    "entry_level_score": "2", 
+                                    "follow_up_score": 7, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]
@@ -3953,9 +4025,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
-                                    "entry_level_score": "0", 
                                     "follow_up_severity": 0, 
-                                    "follow_up_score": 2, 
+                                    "entry_level_score": "0", 
+                                    "follow_up_score": 4, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }, 
                                 {
@@ -3964,9 +4037,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
-                                    "entry_level_score": "0", 
                                     "follow_up_severity": 0, 
+                                    "entry_level_score": "0", 
                                     "follow_up_score": 5, 
+                                    "follow_up_max_score": 10, 
                                     "follow_up_max_severity": 1
                                 }
                             ]
@@ -3976,9 +4050,10 @@
                             "teachers": [
                                 {
                                     "teacher_id": "t2", 
+                                    "follow_up_severity": 0, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 1, 
-                                    "follow_up_score": 6, 
+                                    "follow_up_score": 2, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }, 
                                 {
@@ -3987,9 +4062,10 @@
                                 }, 
                                 {
                                     "teacher_id": "t1", 
+                                    "follow_up_severity": 2, 
                                     "entry_level_score": "10", 
-                                    "follow_up_severity": 0, 
-                                    "follow_up_score": 1, 
+                                    "follow_up_score": 10, 
+                                    "follow_up_max_score": 12, 
                                     "follow_up_max_severity": 2
                                 }
                             ]

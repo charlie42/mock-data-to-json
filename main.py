@@ -32,6 +32,7 @@ def generate_random_follow_up_score(entry_level_score, domain):
     if int(entry_level_score) > 7 or int(entry_level_score) < 3:
         if domain == "planning and organization" or domain == "reading" or domain == "writing" or domain == "math" or domain == "processing speed" or domain == "learning new things":
             follow_up_object["score"] = random.randrange(12)
+            follow_up_object["max_score"] = 12
             follow_up_object["max_severity"] = 2
             if follow_up_object["score"] < 5:
                 follow_up_object["severity"] = 0
@@ -41,6 +42,7 @@ def generate_random_follow_up_score(entry_level_score, domain):
                 follow_up_object["severity"] = 2
         if domain == "cooperativeness" or domain == "following rules" or domain == "risk taking":
             follow_up_object["score"] = random.randrange(10)
+            follow_up_object["max_score"] = 10
             follow_up_object["max_severity"] = 1
             if follow_up_object["score"] < 7:
                 follow_up_object["severity"] = 0
@@ -122,6 +124,7 @@ def entry_level_to_json(csv_file_path, categories_dict):
                                     teacher["follow_up_score"] = follow_up_object["score"]
                                     teacher["follow_up_severity"] = follow_up_object["severity"]
                                     teacher["follow_up_max_severity"] = follow_up_object["max_severity"]
+                                    teacher["follow_up_max_score"] = follow_up_object["max_score"]
                 date["domains"].append(dict(domain_object))
             date.pop("nested_data", None)
     print(json.dumps(json_final, indent=4))
