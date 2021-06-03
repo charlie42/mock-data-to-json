@@ -6,13 +6,13 @@ const fs = require('fs');
 
 function groupByTeacher(obj) {
 
-    obj["students"].forEach(student => {
+    obj.students.forEach(student => {
         let studentDateResult = student["dates"].map(date => {
             dateResult = date
 
             //add every teacher entry level score to an array
-            dateResult["domains"] = Object.values(
-                date["domains"].reduce((a, v) => {
+            dateResult.domains = Object.values(
+                date.domains.reduce((a, v) => {
                     if (!a[v.domain]) {
                         a[v.domain] = {
                             domain: v.domain,
@@ -24,14 +24,14 @@ function groupByTeacher(obj) {
                         if (!a[v.domain].entry_level_scores) {
                             a[v.domain].entry_level_scores = []
                         }
-                        a[v.domain].entry_level_scores.push(parseFloat(value["entry-level-score"]))
+                        a[v.domain].entry_level_scores.push(parseFloat(value.entry_level_score))
                     })
                     return a
                 }, {})
             )
 
             //get avg min and max scores from the array
-            dateResult["domains"].forEach(domain => {
+            dateResult.domains.forEach(domain => {
                 domain.avg_entry_level_score = getAvgOfArray(domain.entry_level_scores)
                 domain.min_entry_level_score = Math.min(...domain.entry_level_scores)
                 domain.max_entry_level_score = Math.max(...domain.entry_level_scores)
@@ -39,7 +39,7 @@ function groupByTeacher(obj) {
 
             return dateResult  
         })
-        student["dates"] = studentDateResult
+        student.dates = studentDateResult
         // console.log(util.inspect(student, false, null, true /* enable colors */))  
         //console.log(util.inspect(studentDateResult, false, null, true /* enable colors */))  
     });
@@ -49,19 +49,19 @@ function groupByTeacher(obj) {
 }
 
 function groupByCategory(obj, categoryDictList) {
-    obj["students"].forEach(student => {
-        student["dates"].forEach(date => {
-            date["categories"] = []
+    obj.students.forEach(student => {
+        student.dates.forEach(date => {
+            date.categories = []
             categorySet = new Set(getValuesFromDictList(categoryDictList))
             categorySet.forEach(category => {
                 domainsInCategory = getDomainsForCategory(category, categoryDictList)
                 domainObjectsInCategory = []
-                date["domains"].forEach(domain => {
+                date.domains.forEach(domain => {
                     if (domainsInCategory.includes(domain.domain)) {
                         domainObjectsInCategory.push(domain)
                     }
                 })
-                date["categories"].push({
+                date.categories.push({
                     category: category,
                     domains: domainObjectsInCategory
                 })

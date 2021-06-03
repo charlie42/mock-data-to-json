@@ -97,7 +97,7 @@ def entry_level_to_json(csv_file_path, categories_dict):
                         domain_object = {}
                         domain_object["domain"] = key
                         domain_object["teacher_id"] = item["teacher_id"]
-                        domain_object["entry-level-score"] = value
+                        domain_object["entry_level_score"] = value
                         nested_data.append(dict(domain_object))
             date["nested_data"] = nested_data
     #print(json.dumps(json_final, indent=4))
@@ -116,12 +116,12 @@ def entry_level_to_json(csv_file_path, categories_dict):
                         # look for the corresponding teacher item in domains/teachers
                         for teacher in domain_object["teachers"]:
                             if teacher["teacher_id"] == item["teacher_id"]:
-                                teacher["entry-level-score"] = item["entry-level-score"]
-                                follow_up_object = generate_random_follow_up_score(item["entry-level-score"], domain)
+                                teacher["entry_level_score"] = item["entry_level_score"]
+                                follow_up_object = generate_random_follow_up_score(item["entry_level_score"], domain)
                                 if follow_up_object:
-                                    teacher["follow-up-score"] = follow_up_object["score"]
-                                    teacher["follow-up-severity"] = follow_up_object["severity"]
-                                    teacher["follow-up-max-severity"] = follow_up_object["max_severity"]
+                                    teacher["follow_up_score"] = follow_up_object["score"]
+                                    teacher["follow_up_severity"] = follow_up_object["severity"]
+                                    teacher["follow_up_max_severity"] = follow_up_object["max_severity"]
                 date["domains"].append(dict(domain_object))
             date.pop("nested_data", None)
     print(json.dumps(json_final, indent=4))
