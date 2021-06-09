@@ -188,10 +188,10 @@
                 2.6666666666666665
               ],
               "scaled_follow_up_scores": [
-                4.166666666666666
+                5
               ],
               "color_intensities_follow_up": [
-                0.25
+                0.5
               ],
               "domains": [
                 {
@@ -295,24 +295,24 @@
                     2
                   ],
                   "scaled_follow_up_scores": [
-                    2.5,
-                    5.833333333333333
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
+                    0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "1",
-                      "follow_up_score": 3,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 2.5,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
@@ -323,11 +323,11 @@
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "2",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.2,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -335,20 +335,20 @@
                   "min_entry_level_score": 1,
                   "max_entry_level_score": 5,
                   "color_intensity_entry_level": 0.26666666666666666,
-                  "avg_scaled_follow_up_score": 4.166666666666666,
-                  "min_scaled_follow_up_score": 2.5,
-                  "max_scaled_follow_up_score": 5.833333333333333,
-                  "avg_color_intensity_follow_up": 0.25
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 }
               ],
               "avg_entry_level_score": 4.916666666666667,
               "min_entry_level_score": 2.6666666666666665,
               "max_entry_level_score": 7,
               "color_intensity_entry_level": 0.4916666666666667,
-              "avg_scaled_follow_up_score": 4.166666666666666,
-              "min_scaled_follow_up_score": 4.166666666666666,
-              "max_scaled_follow_up_score": 4.166666666666666,
-              "avg_color_intensity_follow_up": 0.25
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0.5
             },
             {
               "category": "Emotions",
@@ -817,14 +817,14 @@
                 3
               ],
               "scaled_follow_up_scores": [
-                4.166666666666666,
                 5,
-                2.916666666666667
+                5,
+                5
               ],
               "color_intensities_follow_up": [
-                0.25,
                 0.5,
-                0.25
+                0.5,
+                0.5
               ],
               "domains": [
                 {
@@ -897,24 +897,24 @@
                     1
                   ],
                   "scaled_follow_up_scores": [
-                    2.5,
-                    5.833333333333333
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
+                    0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "1",
-                      "follow_up_score": 3,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 2.5,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
@@ -925,11 +925,11 @@
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "1",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -937,10 +937,10 @@
                   "min_entry_level_score": 1,
                   "max_entry_level_score": 5,
                   "color_intensity_entry_level": 0.23333333333333334,
-                  "avg_scaled_follow_up_score": 4.166666666666666,
-                  "min_scaled_follow_up_score": 2.5,
-                  "max_scaled_follow_up_score": 5.833333333333333,
-                  "avg_color_intensity_follow_up": 0.25
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "reading",
@@ -1057,23 +1057,23 @@
                     2
                   ],
                   "scaled_follow_up_scores": [
-                    4.166666666666667,
-                    1.6666666666666667
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0.5,
-                    0
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 1,
                       "entry_level_score": "2",
-                      "follow_up_score": 5,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.2,
-                      "scaled_follow_up_score": 4.166666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
@@ -1083,34 +1083,34 @@
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "2",
-                      "follow_up_score": 2,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.2,
-                      "scaled_follow_up_score": 1.6666666666666667,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 3,
                   "min_entry_level_score": 2,
                   "max_entry_level_score": 5,
                   "color_intensity_entry_level": 0.3,
-                  "avg_scaled_follow_up_score": 2.916666666666667,
-                  "min_scaled_follow_up_score": 1.6666666666666667,
-                  "max_scaled_follow_up_score": 4.166666666666667,
-                  "avg_color_intensity_follow_up": 0.25
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 }
               ],
               "avg_entry_level_score": 4.952380952380953,
               "min_entry_level_score": 2.3333333333333335,
               "max_entry_level_score": 7.666666666666667,
               "color_intensity_entry_level": 0.49523809523809537,
-              "avg_scaled_follow_up_score": 4.027777777777778,
-              "min_scaled_follow_up_score": 2.916666666666667,
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
               "max_scaled_follow_up_score": 5,
-              "avg_color_intensity_follow_up": 0.3333333333333333
+              "avg_color_intensity_follow_up": 0.5
             },
             {
               "category": "Personal and Personality",
@@ -1392,12 +1392,12 @@
                 7.333333333333333
               ],
               "scaled_follow_up_scores": [
-                6,
-                7.5
+                5,
+                5
               ],
               "color_intensities_follow_up": [
-                0.5,
-                0.5
+                0,
+                0
               ],
               "domains": [
                 {
@@ -1408,24 +1408,24 @@
                     1
                   ],
                   "scaled_follow_up_scores": [
-                    8,
-                    4
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    1,
+                    0,
                     0
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 1,
+                      "follow_up_severity": 0,
                       "entry_level_score": "1",
-                      "follow_up_score": 8,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 8,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t3",
@@ -1436,11 +1436,11 @@
                       "teacher_id": "t1",
                       "follow_up_severity": 0,
                       "entry_level_score": "1",
-                      "follow_up_score": 4,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 4,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     }
                   ],
@@ -1448,10 +1448,10 @@
                   "min_entry_level_score": 1,
                   "max_entry_level_score": 5,
                   "color_intensity_entry_level": 0.23333333333333334,
-                  "avg_scaled_follow_up_score": 6,
-                  "min_scaled_follow_up_score": 4,
-                  "max_scaled_follow_up_score": 8,
-                  "avg_color_intensity_follow_up": 0.5
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0
                 },
                 {
                   "domain": "social skills",
@@ -1585,23 +1585,23 @@
                     9
                   ],
                   "scaled_follow_up_scores": [
-                    6,
-                    9
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0,
-                    1
+                    0
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 0,
                       "entry_level_score": "8",
-                      "follow_up_score": 6,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 6,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
@@ -1611,34 +1611,34 @@
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 1,
+                      "follow_up_severity": 0,
                       "entry_level_score": "9",
-                      "follow_up_score": 9,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 9,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0
                     }
                   ],
                   "avg_entry_level_score": 7.333333333333333,
                   "min_entry_level_score": 5,
                   "max_entry_level_score": 9,
                   "color_intensity_entry_level": 0.7333333333333333,
-                  "avg_scaled_follow_up_score": 7.5,
-                  "min_scaled_follow_up_score": 6,
-                  "max_scaled_follow_up_score": 9,
-                  "avg_color_intensity_follow_up": 0.5
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0
                 }
               ],
               "avg_entry_level_score": 5.222222222222222,
               "min_entry_level_score": 2.3333333333333335,
               "max_entry_level_score": 7.333333333333333,
               "color_intensity_entry_level": 0.5222222222222223,
-              "avg_scaled_follow_up_score": 6.75,
-              "min_scaled_follow_up_score": 6,
-              "max_scaled_follow_up_score": 7.5,
-              "avg_color_intensity_follow_up": 0.5
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0
             }
           ]
         }
@@ -3150,10 +3150,10 @@
                 0
               ],
               "scaled_follow_up_scores": [
-                5.333333333333333
+                5
               ],
               "color_intensities_follow_up": [
-                0.3333333333333333
+                0
               ],
               "domains": [
                 {
@@ -3226,47 +3226,47 @@
                     1
                   ],
                   "scaled_follow_up_scores": [
-                    8,
-                    6,
-                    2
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    1,
+                    0,
                     0,
                     0
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 1,
+                      "follow_up_severity": 0,
                       "entry_level_score": "1",
-                      "follow_up_score": 8,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 8,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t3",
                       "follow_up_severity": 0,
                       "entry_level_score": "1",
-                      "follow_up_score": 6,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 6,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t1",
                       "follow_up_severity": 0,
                       "entry_level_score": "1",
-                      "follow_up_score": 2,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 2,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     }
                   ],
@@ -3274,10 +3274,10 @@
                   "min_entry_level_score": 1,
                   "max_entry_level_score": 1,
                   "color_intensity_entry_level": 0.1,
-                  "avg_scaled_follow_up_score": 5.333333333333333,
-                  "min_scaled_follow_up_score": 2,
-                  "max_scaled_follow_up_score": 8,
-                  "avg_color_intensity_follow_up": 0.3333333333333333
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0
                 },
                 {
                   "domain": "activity",
@@ -3346,10 +3346,10 @@
               "min_entry_level_score": 0,
               "max_entry_level_score": 9,
               "color_intensity_entry_level": 0.36,
-              "avg_scaled_follow_up_score": 5.333333333333333,
-              "min_scaled_follow_up_score": 5.333333333333333,
-              "max_scaled_follow_up_score": 5.333333333333333,
-              "avg_color_intensity_follow_up": 0.3333333333333333
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0
             },
             {
               "category": "Cognition",
@@ -3360,12 +3360,12 @@
                 10
               ],
               "scaled_follow_up_scores": [
-                3.8888888888888893,
-                7.777777777777778
+                5,
+                5
               ],
               "color_intensities_follow_up": [
-                0.3333333333333333,
-                0.6666666666666666
+                0.5,
+                0.5
               ],
               "domains": [
                 {
@@ -3376,47 +3376,47 @@
                     0
                   ],
                   "scaled_follow_up_scores": [
-                    1.6666666666666667,
-                    4.166666666666667,
-                    5.833333333333333
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
+                    0.5,
                     0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "0",
-                      "follow_up_score": 2,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 1.6666666666666667,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
                       "follow_up_severity": 1,
                       "entry_level_score": "0",
-                      "follow_up_score": 5,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 4.166666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "0",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -3424,10 +3424,10 @@
                   "min_entry_level_score": 0,
                   "max_entry_level_score": 0,
                   "color_intensity_entry_level": 0,
-                  "avg_scaled_follow_up_score": 3.8888888888888893,
-                  "min_scaled_follow_up_score": 1.6666666666666667,
-                  "max_scaled_follow_up_score": 5.833333333333333,
-                  "avg_color_intensity_follow_up": 0.3333333333333333
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "memory",
@@ -3499,13 +3499,13 @@
                     10
                   ],
                   "scaled_follow_up_scores": [
-                    6.666666666666667,
-                    9.166666666666666,
-                    7.5
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0.5,
-                    1,
+                    0.5,
                     0.5
                   ],
                   "teachers": [
@@ -3513,33 +3513,33 @@
                       "teacher_id": "t2",
                       "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 8,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 6.666666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 2,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 11,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 9.166666666666666,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 9,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 7.5,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -3547,19 +3547,19 @@
                   "min_entry_level_score": 10,
                   "max_entry_level_score": 10,
                   "color_intensity_entry_level": 1,
-                  "avg_scaled_follow_up_score": 7.777777777777778,
-                  "min_scaled_follow_up_score": 6.666666666666667,
-                  "max_scaled_follow_up_score": 9.166666666666666,
-                  "avg_color_intensity_follow_up": 0.6666666666666666
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 }
               ],
               "avg_entry_level_score": 4.75,
               "min_entry_level_score": 0,
               "max_entry_level_score": 10,
               "color_intensity_entry_level": 0.475,
-              "avg_scaled_follow_up_score": 5.833333333333334,
-              "min_scaled_follow_up_score": 3.8888888888888893,
-              "max_scaled_follow_up_score": 7.777777777777778,
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
               "avg_color_intensity_follow_up": 0.5
             },
             {
@@ -4029,16 +4029,16 @@
                 9
               ],
               "scaled_follow_up_scores": [
-                2.4999999999999996,
-                4.722222222222222,
-                6.666666666666667,
-                7.916666666666666
+                5,
+                5,
+                5,
+                5
               ],
               "color_intensities_follow_up": [
-                0.16666666666666666,
-                0.3333333333333333,
-                0.6666666666666666,
-                0.75
+                0.5,
+                0.5,
+                0.5,
+                0.5
               ],
               "domains": [
                 {
@@ -4111,58 +4111,58 @@
                     1
                   ],
                   "scaled_follow_up_scores": [
-                    5.833333333333333,
-                    0.8333333333333334,
-                    0.8333333333333334
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0.5,
-                    0,
-                    0
+                    0.5,
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 1,
                       "entry_level_score": "1",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "1",
-                      "follow_up_score": 1,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 0.8333333333333334,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "1",
-                      "follow_up_score": 1,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 0.8333333333333334,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 1,
                   "min_entry_level_score": 1,
                   "max_entry_level_score": 1,
                   "color_intensity_entry_level": 0.1,
-                  "avg_scaled_follow_up_score": 2.4999999999999996,
-                  "min_scaled_follow_up_score": 0.8333333333333334,
-                  "max_scaled_follow_up_score": 5.833333333333333,
-                  "avg_color_intensity_follow_up": 0.16666666666666666
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "reading",
@@ -4172,58 +4172,58 @@
                     8
                   ],
                   "scaled_follow_up_scores": [
-                    4.166666666666667,
-                    6.666666666666667,
-                    3.3333333333333335
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0.5,
                     0.5,
-                    0
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 1,
                       "entry_level_score": "8",
-                      "follow_up_score": 5,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 4.166666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
                       "follow_up_severity": 1,
                       "entry_level_score": "8",
-                      "follow_up_score": 8,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 6.666666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "8",
-                      "follow_up_score": 4,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 3.3333333333333335,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 8,
                   "min_entry_level_score": 8,
                   "max_entry_level_score": 8,
                   "color_intensity_entry_level": 0.8,
-                  "avg_scaled_follow_up_score": 4.722222222222222,
-                  "min_scaled_follow_up_score": 3.3333333333333335,
-                  "max_scaled_follow_up_score": 6.666666666666667,
-                  "avg_color_intensity_follow_up": 0.3333333333333333
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "math",
@@ -4233,47 +4233,47 @@
                     9
                   ],
                   "scaled_follow_up_scores": [
-                    9.166666666666666,
-                    6.666666666666667,
-                    4.166666666666667
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    1,
+                    0.5,
                     0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 2,
+                      "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 11,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 9.166666666666666,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
                       "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 8,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 6.666666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 5,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 4.166666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -4281,10 +4281,10 @@
                   "min_entry_level_score": 9,
                   "max_entry_level_score": 9,
                   "color_intensity_entry_level": 0.9,
-                  "avg_scaled_follow_up_score": 6.666666666666667,
-                  "min_scaled_follow_up_score": 4.166666666666667,
-                  "max_scaled_follow_up_score": 9.166666666666666,
-                  "avg_color_intensity_follow_up": 0.6666666666666666
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "academic performance/aptitude",
@@ -4325,64 +4325,68 @@
                     9
                   ],
                   "scaled_follow_up_scores": [
-                    6.666666666666667,
-                    9.166666666666666
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0.5,
-                    1
+                    0.5,
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 8,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 6.666666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 0,
-                      "follow_up_max_score": 12,
-                      "follow_up_max_severity": 2,
-                      "color_intensity_entry_level": 0.9
-                    },
-                    {
-                      "teacher_id": "t1",
-                      "follow_up_severity": 2,
-                      "entry_level_score": "9",
-                      "follow_up_score": 11,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 9.166666666666666,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
+                    },
+                    {
+                      "teacher_id": "t1",
+                      "follow_up_severity": 1,
+                      "entry_level_score": "9",
+                      "follow_up_score": 6,
+                      "follow_up_max_score": 12,
+                      "follow_up_max_severity": 2,
+                      "color_intensity_entry_level": 0.9,
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 9,
                   "min_entry_level_score": 9,
                   "max_entry_level_score": 9,
                   "color_intensity_entry_level": 0.9,
-                  "avg_scaled_follow_up_score": 7.916666666666666,
-                  "min_scaled_follow_up_score": 6.666666666666667,
-                  "max_scaled_follow_up_score": 9.166666666666666,
-                  "avg_color_intensity_follow_up": 0.75
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 }
               ],
               "avg_entry_level_score": 6.285714285714286,
               "min_entry_level_score": 1,
               "max_entry_level_score": 9,
               "color_intensity_entry_level": 0.6285714285714286,
-              "avg_scaled_follow_up_score": 5.451388888888889,
-              "min_scaled_follow_up_score": 2.4999999999999996,
-              "max_scaled_follow_up_score": 7.916666666666666,
-              "avg_color_intensity_follow_up": 0.47916666666666663
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0.5
             },
             {
               "category": "Personal and Personality",
@@ -4873,7 +4877,7 @@
                 4.666666666666667
               ],
               "scaled_follow_up_scores": [
-                3.3333333333333335
+                5
               ],
               "color_intensities_follow_up": [
                 0
@@ -4949,8 +4953,8 @@
                     0
                   ],
                   "scaled_follow_up_scores": [
-                    3,
-                    2,
+                    5,
+                    5,
                     5
                   ],
                   "color_intensities_follow_up": [
@@ -4963,22 +4967,22 @@
                       "teacher_id": "t2",
                       "follow_up_severity": 0,
                       "entry_level_score": "0",
-                      "follow_up_score": 3,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 3,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t3",
                       "follow_up_severity": 0,
                       "entry_level_score": "0",
-                      "follow_up_score": 2,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 2,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
@@ -4997,8 +5001,8 @@
                   "min_entry_level_score": 0,
                   "max_entry_level_score": 0,
                   "color_intensity_entry_level": 0,
-                  "avg_scaled_follow_up_score": 3.3333333333333335,
-                  "min_scaled_follow_up_score": 2,
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
                   "max_scaled_follow_up_score": 5,
                   "avg_color_intensity_follow_up": 0
                 },
@@ -5069,9 +5073,9 @@
               "min_entry_level_score": 0,
               "max_entry_level_score": 9.333333333333334,
               "color_intensity_entry_level": 0.44666666666666666,
-              "avg_scaled_follow_up_score": 3.3333333333333335,
-              "min_scaled_follow_up_score": 3.3333333333333335,
-              "max_scaled_follow_up_score": 3.3333333333333335,
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
               "avg_color_intensity_follow_up": 0
             },
             {
@@ -5083,12 +5087,12 @@
                 7.333333333333333
               ],
               "scaled_follow_up_scores": [
-                3.611111111111111,
-                4.166666666666666
+                5,
+                5
               ],
               "color_intensities_follow_up": [
-                0.16666666666666666,
-                0.25
+                0.5,
+                0.5
               ],
               "domains": [
                 {
@@ -5099,58 +5103,58 @@
                     0
                   ],
                   "scaled_follow_up_scores": [
-                    5.833333333333333,
-                    1.6666666666666667,
-                    3.3333333333333335
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0.5,
-                    0,
-                    0
+                    0.5,
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 1,
                       "entry_level_score": "0",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "0",
-                      "follow_up_score": 2,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 1.6666666666666667,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "0",
-                      "follow_up_score": 4,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 3.3333333333333335,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 0,
                   "min_entry_level_score": 0,
                   "max_entry_level_score": 0,
                   "color_intensity_entry_level": 0,
-                  "avg_scaled_follow_up_score": 3.611111111111111,
-                  "min_scaled_follow_up_score": 1.6666666666666667,
-                  "max_scaled_follow_up_score": 5.833333333333333,
-                  "avg_color_intensity_follow_up": 0.16666666666666666
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "memory",
@@ -5222,24 +5226,24 @@
                     10
                   ],
                   "scaled_follow_up_scores": [
-                    2.5,
-                    5.833333333333333
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
+                    0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "8",
-                      "follow_up_score": 3,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 2.5,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
@@ -5250,11 +5254,11 @@
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -5262,20 +5266,20 @@
                   "min_entry_level_score": 4,
                   "max_entry_level_score": 10,
                   "color_intensity_entry_level": 0.7333333333333333,
-                  "avg_scaled_follow_up_score": 4.166666666666666,
-                  "min_scaled_follow_up_score": 2.5,
-                  "max_scaled_follow_up_score": 5.833333333333333,
-                  "avg_color_intensity_follow_up": 0.25
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 }
               ],
               "avg_entry_level_score": 3.5,
               "min_entry_level_score": 0,
               "max_entry_level_score": 7.333333333333333,
               "color_intensity_entry_level": 0.35,
-              "avg_scaled_follow_up_score": 3.8888888888888884,
-              "min_scaled_follow_up_score": 3.611111111111111,
-              "max_scaled_follow_up_score": 4.166666666666666,
-              "avg_color_intensity_follow_up": 0.20833333333333331
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0.5
             },
             {
               "category": "Emotions",
@@ -5744,16 +5748,16 @@
                 9.333333333333334
               ],
               "scaled_follow_up_scores": [
-                5.833333333333333,
-                3.333333333333333,
-                4.166666666666667,
-                4.444444444444445
+                5,
+                5,
+                5,
+                5
               ],
               "color_intensities_follow_up": [
                 0.5,
-                0.25,
-                0.16666666666666666,
-                0.16666666666666666
+                0.5,
+                0.5,
+                0.5
               ],
               "domains": [
                 {
@@ -5826,9 +5830,11 @@
                     2
                   ],
                   "scaled_follow_up_scores": [
-                    5.833333333333333
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
+                    0.5,
                     0.5
                   ],
                   "teachers": [
@@ -5836,11 +5842,11 @@
                       "teacher_id": "t2",
                       "follow_up_severity": 1,
                       "entry_level_score": "2",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.2,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     },
                     {
@@ -5850,21 +5856,23 @@
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "2",
-                      "follow_up_score": 0,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
-                      "color_intensity_entry_level": 0.2
+                      "color_intensity_entry_level": 0.2,
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 2.3333333333333335,
                   "min_entry_level_score": 2,
                   "max_entry_level_score": 3,
                   "color_intensity_entry_level": 0.23333333333333334,
-                  "avg_scaled_follow_up_score": 5.833333333333333,
-                  "min_scaled_follow_up_score": 5.833333333333333,
-                  "max_scaled_follow_up_score": 5.833333333333333,
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
                   "avg_color_intensity_follow_up": 0.5
                 },
                 {
@@ -5875,24 +5883,24 @@
                     9
                   ],
                   "scaled_follow_up_scores": [
-                    0.8333333333333334,
-                    5.833333333333333
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
+                    0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 1,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 0.8333333333333334,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
@@ -5903,11 +5911,11 @@
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -5915,10 +5923,10 @@
                   "min_entry_level_score": 7,
                   "max_entry_level_score": 9,
                   "color_intensity_entry_level": 0.8333333333333334,
-                  "avg_scaled_follow_up_score": 3.333333333333333,
-                  "min_scaled_follow_up_score": 0.8333333333333334,
-                  "max_scaled_follow_up_score": 5.833333333333333,
-                  "avg_color_intensity_follow_up": 0.25
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "math",
@@ -5928,47 +5936,47 @@
                     9
                   ],
                   "scaled_follow_up_scores": [
-                    1.6666666666666667,
-                    3.3333333333333335,
-                    7.5
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
-                    0,
+                    0.5,
+                    0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "8",
-                      "follow_up_score": 2,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 1.6666666666666667,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 4,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 3.3333333333333335,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 9,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 7.5,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -5976,10 +5984,10 @@
                   "min_entry_level_score": 8,
                   "max_entry_level_score": 9,
                   "color_intensity_entry_level": 0.8666666666666666,
-                  "avg_scaled_follow_up_score": 4.166666666666667,
-                  "min_scaled_follow_up_score": 1.6666666666666667,
-                  "max_scaled_follow_up_score": 7.5,
-                  "avg_color_intensity_follow_up": 0.16666666666666666
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "academic performance/aptitude",
@@ -6020,47 +6028,47 @@
                     9
                   ],
                   "scaled_follow_up_scores": [
-                    2.5,
-                    3.3333333333333335,
-                    7.5
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
-                    0,
+                    0.5,
+                    0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 3,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 2.5,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 4,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 3.3333333333333335,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 9,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 7.5,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -6068,20 +6076,20 @@
                   "min_entry_level_score": 9,
                   "max_entry_level_score": 10,
                   "color_intensity_entry_level": 0.9333333333333333,
-                  "avg_scaled_follow_up_score": 4.444444444444445,
-                  "min_scaled_follow_up_score": 2.5,
-                  "max_scaled_follow_up_score": 7.5,
-                  "avg_color_intensity_follow_up": 0.16666666666666666
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 }
               ],
               "avg_entry_level_score": 6.714285714285714,
               "min_entry_level_score": 1.6666666666666667,
               "max_entry_level_score": 9.333333333333334,
               "color_intensity_entry_level": 0.6714285714285715,
-              "avg_scaled_follow_up_score": 4.444444444444445,
-              "min_scaled_follow_up_score": 3.333333333333333,
-              "max_scaled_follow_up_score": 5.833333333333333,
-              "avg_color_intensity_follow_up": 0.2708333333333333
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0.5
             },
             {
               "category": "Personal and Personality",
@@ -6363,12 +6371,12 @@
                 9
               ],
               "scaled_follow_up_scores": [
-                3.6666666666666665,
-                5.333333333333333
+                5,
+                5
               ],
               "color_intensities_follow_up": [
-                0.3333333333333333,
-                0.3333333333333333
+                0,
+                0
               ],
               "domains": [
                 {
@@ -6379,58 +6387,58 @@
                     1
                   ],
                   "scaled_follow_up_scores": [
-                    1,
-                    3,
-                    7
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0,
                     0,
-                    1
+                    0
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 0,
                       "entry_level_score": "2",
-                      "follow_up_score": 1,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.2,
-                      "scaled_follow_up_score": 1,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t3",
                       "follow_up_severity": 0,
                       "entry_level_score": "2",
-                      "follow_up_score": 3,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.2,
-                      "scaled_follow_up_score": 3,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 1,
+                      "follow_up_severity": 0,
                       "entry_level_score": "1",
-                      "follow_up_score": 7,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.1,
-                      "scaled_follow_up_score": 7,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0
                     }
                   ],
                   "avg_entry_level_score": 1.6666666666666667,
                   "min_entry_level_score": 1,
                   "max_entry_level_score": 2,
                   "color_intensity_entry_level": 0.16666666666666669,
-                  "avg_scaled_follow_up_score": 3.6666666666666665,
-                  "min_scaled_follow_up_score": 1,
-                  "max_scaled_follow_up_score": 7,
-                  "avg_color_intensity_follow_up": 0.3333333333333333
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0
                 },
                 {
                   "domain": "social skills",
@@ -6564,68 +6572,68 @@
                     9
                   ],
                   "scaled_follow_up_scores": [
-                    6,
-                    1,
-                    9
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0,
                     0,
-                    1
+                    0
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 0,
                       "entry_level_score": "8",
-                      "follow_up_score": 6,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 6,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t3",
                       "follow_up_severity": 0,
                       "entry_level_score": "10",
-                      "follow_up_score": 1,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 1,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 1,
+                      "follow_up_severity": 0,
                       "entry_level_score": "9",
-                      "follow_up_score": 9,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 9,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0
                     }
                   ],
                   "avg_entry_level_score": 9,
                   "min_entry_level_score": 8,
                   "max_entry_level_score": 10,
                   "color_intensity_entry_level": 0.9,
-                  "avg_scaled_follow_up_score": 5.333333333333333,
-                  "min_scaled_follow_up_score": 1,
-                  "max_scaled_follow_up_score": 9,
-                  "avg_color_intensity_follow_up": 0.3333333333333333
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0
                 }
               ],
               "avg_entry_level_score": 4.5,
               "min_entry_level_score": 0,
               "max_entry_level_score": 9,
               "color_intensity_entry_level": 0.45,
-              "avg_scaled_follow_up_score": 4.5,
-              "min_scaled_follow_up_score": 3.6666666666666665,
-              "max_scaled_follow_up_score": 5.333333333333333,
-              "avg_color_intensity_follow_up": 0.3333333333333333
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0
             }
           ]
         }
@@ -6647,10 +6655,10 @@
                 0.6666666666666666
               ],
               "scaled_follow_up_scores": [
-                6
+                5
               ],
               "color_intensities_follow_up": [
-                0.3333333333333333
+                0
               ],
               "domains": [
                 {
@@ -6723,58 +6731,58 @@
                     8
                   ],
                   "scaled_follow_up_scores": [
-                    3,
-                    6,
-                    9
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
                     0,
                     0,
-                    1
+                    0
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
                       "follow_up_severity": 0,
                       "entry_level_score": "9",
-                      "follow_up_score": 3,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 3,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t3",
                       "follow_up_severity": 0,
                       "entry_level_score": "8",
-                      "follow_up_score": 6,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 6,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 1,
+                      "follow_up_severity": 0,
                       "entry_level_score": "8",
-                      "follow_up_score": 9,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 9,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0
                     }
                   ],
                   "avg_entry_level_score": 8.333333333333334,
                   "min_entry_level_score": 8,
                   "max_entry_level_score": 9,
                   "color_intensity_entry_level": 0.8333333333333334,
-                  "avg_scaled_follow_up_score": 6,
-                  "min_scaled_follow_up_score": 3,
-                  "max_scaled_follow_up_score": 9,
-                  "avg_color_intensity_follow_up": 0.3333333333333333
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0
                 },
                 {
                   "domain": "activity",
@@ -6843,10 +6851,10 @@
               "min_entry_level_score": 0.6666666666666666,
               "max_entry_level_score": 8.333333333333334,
               "color_intensity_entry_level": 0.4533333333333333,
-              "avg_scaled_follow_up_score": 6,
-              "min_scaled_follow_up_score": 6,
-              "max_scaled_follow_up_score": 6,
-              "avg_color_intensity_follow_up": 0.3333333333333333
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0
             },
             {
               "category": "Cognition",
@@ -6857,8 +6865,8 @@
                 3
               ],
               "scaled_follow_up_scores": [
-                5.833333333333334,
-                5.833333333333333
+                5,
+                5
               ],
               "color_intensities_follow_up": [
                 0.5,
@@ -6873,53 +6881,57 @@
                     9
                   ],
                   "scaled_follow_up_scores": [
-                    8.333333333333334,
-                    3.3333333333333335
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    1,
-                    0
+                    0.5,
+                    0.5,
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 2,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 10,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 8.333333333333334,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 4,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.9,
-                      "scaled_follow_up_score": 3.3333333333333335,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "9",
-                      "follow_up_score": 0,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
-                      "color_intensity_entry_level": 0.9
+                      "color_intensity_entry_level": 0.9,
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 9.333333333333334,
                   "min_entry_level_score": 9,
                   "max_entry_level_score": 10,
                   "color_intensity_entry_level": 0.9333333333333333,
-                  "avg_scaled_follow_up_score": 5.833333333333334,
-                  "min_scaled_follow_up_score": 3.3333333333333335,
-                  "max_scaled_follow_up_score": 8.333333333333334,
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
                   "avg_color_intensity_follow_up": 0.5
                 },
                 {
@@ -6992,20 +7004,24 @@
                     2
                   ],
                   "scaled_follow_up_scores": [
-                    5.833333333333333
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
+                    0.5,
                     0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "2",
-                      "follow_up_score": 0,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
-                      "color_intensity_entry_level": 0.2
+                      "color_intensity_entry_level": 0.2,
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
@@ -7016,11 +7032,11 @@
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "2",
-                      "follow_up_score": 7,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.2,
-                      "scaled_follow_up_score": 5.833333333333333,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -7028,9 +7044,9 @@
                   "min_entry_level_score": 2,
                   "max_entry_level_score": 5,
                   "color_intensity_entry_level": 0.3,
-                  "avg_scaled_follow_up_score": 5.833333333333333,
-                  "min_scaled_follow_up_score": 5.833333333333333,
-                  "max_scaled_follow_up_score": 5.833333333333333,
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
                   "avg_color_intensity_follow_up": 0.5
                 }
               ],
@@ -7038,9 +7054,9 @@
               "min_entry_level_score": 0.3333333333333333,
               "max_entry_level_score": 9.333333333333334,
               "color_intensity_entry_level": 0.4666666666666667,
-              "avg_scaled_follow_up_score": 5.833333333333334,
-              "min_scaled_follow_up_score": 5.833333333333333,
-              "max_scaled_follow_up_score": 5.833333333333334,
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
               "avg_color_intensity_follow_up": 0.5
             },
             {
@@ -7510,15 +7526,15 @@
                 8.333333333333334
               ],
               "scaled_follow_up_scores": [
-                5.416666666666667,
-                4.444444444444445,
-                4.166666666666667,
+                5,
+                5,
+                5,
                 5
               ],
               "color_intensities_follow_up": [
                 0.5,
-                0.3333333333333333,
-                0.25,
+                0.5,
+                0.5,
                 0.5
               ],
               "domains": [
@@ -7592,24 +7608,24 @@
                     10
                   ],
                   "scaled_follow_up_scores": [
-                    8.333333333333334,
-                    2.5
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    1,
-                    0
+                    0.5,
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 2,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 10,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 8.333333333333334,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
@@ -7618,23 +7634,23 @@
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 3,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 2.5,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 7.666666666666667,
                   "min_entry_level_score": 3,
                   "max_entry_level_score": 10,
                   "color_intensity_entry_level": 0.7666666666666667,
-                  "avg_scaled_follow_up_score": 5.416666666666667,
-                  "min_scaled_follow_up_score": 2.5,
-                  "max_scaled_follow_up_score": 8.333333333333334,
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
                   "avg_color_intensity_follow_up": 0.5
                 },
                 {
@@ -7645,58 +7661,58 @@
                     10
                   ],
                   "scaled_follow_up_scores": [
-                    1.6666666666666667,
-                    8.333333333333334,
-                    3.3333333333333335
+                    5,
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
-                    1,
-                    0
+                    0.5,
+                    0.5,
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 2,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 1.6666666666666667,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 2,
+                      "follow_up_severity": 1,
                       "entry_level_score": "2",
-                      "follow_up_score": 10,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.2,
-                      "scaled_follow_up_score": 8.333333333333334,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 4,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 3.3333333333333335,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 7.333333333333333,
                   "min_entry_level_score": 2,
                   "max_entry_level_score": 10,
                   "color_intensity_entry_level": 0.7333333333333333,
-                  "avg_scaled_follow_up_score": 4.444444444444445,
-                  "min_scaled_follow_up_score": 1.6666666666666667,
-                  "max_scaled_follow_up_score": 8.333333333333334,
-                  "avg_color_intensity_follow_up": 0.3333333333333333
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "math",
@@ -7706,11 +7722,11 @@
                     8
                   ],
                   "scaled_follow_up_scores": [
-                    1.6666666666666667,
-                    6.666666666666667
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
+                    0.5,
                     0.5
                   ],
                   "teachers": [
@@ -7721,24 +7737,24 @@
                     },
                     {
                       "teacher_id": "t3",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "8",
-                      "follow_up_score": 2,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 1.6666666666666667,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t1",
                       "follow_up_severity": 1,
                       "entry_level_score": "8",
-                      "follow_up_score": 8,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 0.8,
-                      "scaled_follow_up_score": 6.666666666666667,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0.5
                     }
                   ],
@@ -7746,10 +7762,10 @@
                   "min_entry_level_score": 6,
                   "max_entry_level_score": 8,
                   "color_intensity_entry_level": 0.7333333333333333,
-                  "avg_scaled_follow_up_score": 4.166666666666667,
-                  "min_scaled_follow_up_score": 1.6666666666666667,
-                  "max_scaled_follow_up_score": 6.666666666666667,
-                  "avg_color_intensity_follow_up": 0.25
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0.5
                 },
                 {
                   "domain": "academic performance/aptitude",
@@ -7790,24 +7806,24 @@
                     10
                   ],
                   "scaled_follow_up_scores": [
-                    1.6666666666666667,
-                    8.333333333333334
+                    5,
+                    5
                   ],
                   "color_intensities_follow_up": [
-                    0,
-                    1
+                    0.5,
+                    0.5
                   ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
-                      "follow_up_severity": 0,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 2,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 1.6666666666666667,
-                      "color_intensity_follow_up": 0
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     },
                     {
                       "teacher_id": "t3",
@@ -7816,14 +7832,14 @@
                     },
                     {
                       "teacher_id": "t1",
-                      "follow_up_severity": 2,
+                      "follow_up_severity": 1,
                       "entry_level_score": "10",
-                      "follow_up_score": 10,
+                      "follow_up_score": 6,
                       "follow_up_max_score": 12,
                       "follow_up_max_severity": 2,
                       "color_intensity_entry_level": 1,
-                      "scaled_follow_up_score": 8.333333333333334,
-                      "color_intensity_follow_up": 1
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0.5
                     }
                   ],
                   "avg_entry_level_score": 8.333333333333334,
@@ -7831,8 +7847,8 @@
                   "max_entry_level_score": 10,
                   "color_intensity_entry_level": 0.8333333333333334,
                   "avg_scaled_follow_up_score": 5,
-                  "min_scaled_follow_up_score": 1.6666666666666667,
-                  "max_scaled_follow_up_score": 8.333333333333334,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
                   "avg_color_intensity_follow_up": 0.5
                 }
               ],
@@ -7840,10 +7856,10 @@
               "min_entry_level_score": 7.333333333333333,
               "max_entry_level_score": 9.666666666666666,
               "color_intensity_entry_level": 0.8190476190476191,
-              "avg_scaled_follow_up_score": 4.756944444444445,
-              "min_scaled_follow_up_score": 4.166666666666667,
-              "max_scaled_follow_up_score": 5.416666666666667,
-              "avg_color_intensity_follow_up": 0.3958333333333333
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
+              "avg_color_intensity_follow_up": 0.5
             },
             {
               "category": "Personal and Personality",
@@ -8125,9 +8141,11 @@
                 1.3333333333333333
               ],
               "scaled_follow_up_scores": [
-                4.5
+                5,
+                5
               ],
               "color_intensities_follow_up": [
+                0,
                 0
               ],
               "domains": [
@@ -8138,8 +8156,12 @@
                     8,
                     4
                   ],
-                  "scaled_follow_up_scores": [],
-                  "color_intensities_follow_up": [],
+                  "scaled_follow_up_scores": [
+                    5
+                  ],
+                  "color_intensities_follow_up": [
+                    0
+                  ],
                   "teachers": [
                     {
                       "teacher_id": "t2",
@@ -8150,10 +8172,12 @@
                       "teacher_id": "t3",
                       "follow_up_severity": 0,
                       "entry_level_score": "8",
-                      "follow_up_score": 0,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
-                      "color_intensity_entry_level": 0.8
+                      "color_intensity_entry_level": 0.8,
+                      "scaled_follow_up_score": 5,
+                      "color_intensity_follow_up": 0
                     },
                     {
                       "teacher_id": "t1",
@@ -8164,7 +8188,11 @@
                   "avg_entry_level_score": 5.333333333333333,
                   "min_entry_level_score": 4,
                   "max_entry_level_score": 8,
-                  "color_intensity_entry_level": 0.5333333333333333
+                  "color_intensity_entry_level": 0.5333333333333333,
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
+                  "max_scaled_follow_up_score": 5,
+                  "avg_color_intensity_follow_up": 0
                 },
                 {
                   "domain": "social skills",
@@ -8298,7 +8326,7 @@
                     0
                   ],
                   "scaled_follow_up_scores": [
-                    4,
+                    5,
                     5
                   ],
                   "color_intensities_follow_up": [
@@ -8310,11 +8338,11 @@
                       "teacher_id": "t2",
                       "follow_up_severity": 0,
                       "entry_level_score": "0",
-                      "follow_up_score": 4,
+                      "follow_up_score": 5,
                       "follow_up_max_score": 10,
                       "follow_up_max_severity": 1,
                       "color_intensity_entry_level": 0,
-                      "scaled_follow_up_score": 4,
+                      "scaled_follow_up_score": 5,
                       "color_intensity_follow_up": 0
                     },
                     {
@@ -8338,8 +8366,8 @@
                   "min_entry_level_score": 0,
                   "max_entry_level_score": 4,
                   "color_intensity_entry_level": 0.13333333333333333,
-                  "avg_scaled_follow_up_score": 4.5,
-                  "min_scaled_follow_up_score": 4,
+                  "avg_scaled_follow_up_score": 5,
+                  "min_scaled_follow_up_score": 5,
                   "max_scaled_follow_up_score": 5,
                   "avg_color_intensity_follow_up": 0
                 }
@@ -8348,9 +8376,9 @@
               "min_entry_level_score": 0.3333333333333333,
               "max_entry_level_score": 8.333333333333334,
               "color_intensity_entry_level": 0.3222222222222222,
-              "avg_scaled_follow_up_score": 4.5,
-              "min_scaled_follow_up_score": 4.5,
-              "max_scaled_follow_up_score": 4.5,
+              "avg_scaled_follow_up_score": 5,
+              "min_scaled_follow_up_score": 5,
+              "max_scaled_follow_up_score": 5,
               "avg_color_intensity_follow_up": 0
             }
           ]

@@ -1,6 +1,8 @@
 import csv 
 import json
 import random
+import pandas as pd 
+
 def read_categories_json(categories_json_path):
     #read csv file
     with open(categories_json_path) as csvf: 
@@ -31,6 +33,7 @@ def generate_random_follow_up_score(entry_level_score, domain):
     follow_up_object = {}
     if int(entry_level_score) > 7 or int(entry_level_score) < 3:
         if domain == "planning and organization" or domain == "reading" or domain == "writing" or domain == "math" or domain == "processing speed" or domain == "learning new things":
+            random.seed(10)
             follow_up_object["score"] = random.randrange(12)
             follow_up_object["max_score"] = 12
             follow_up_object["max_severity"] = 2
@@ -41,6 +44,7 @@ def generate_random_follow_up_score(entry_level_score, domain):
             else: 
                 follow_up_object["severity"] = 2
         if domain == "cooperativeness" or domain == "following rules" or domain == "risk taking":
+            random.seed(10)
             follow_up_object["score"] = random.randrange(10)
             follow_up_object["max_score"] = 10
             follow_up_object["max_severity"] = 1
@@ -50,8 +54,14 @@ def generate_random_follow_up_score(entry_level_score, domain):
                 follow_up_object["severity"] = 1
     return follow_up_object
 
+def read_questions(student_id, date, domain, teacher_id):
+    questions_object = []
+    filtered_df = questions_df.loc[(questions_df["teacherID"] == teacher_id) & (questions_df["studentID"] == student_id) & (questions_df["date"] == date) & (questions_df["domain"] == domain)]
+    if not filtered_df.empty:
+        questions_object.append(questions_df[["question","response","score","minScore","maxScore"]].to_dict('records'))
+    return questions_object
 
-def entry_level_to_json(csv_file_path, categories_dict):
+def csv_to_json(csv_file_path, categories_dict):
     json_array = read_csv_file(csv_file_path)
     json_final = {}
     json_final["students"] = []
@@ -125,19 +135,26 @@ def entry_level_to_json(csv_file_path, categories_dict):
                                     teacher["follow_up_severity"] = follow_up_object["severity"]
                                     teacher["follow_up_max_severity"] = follow_up_object["max_severity"]
                                     teacher["follow_up_max_score"] = follow_up_object["max_score"]
+                                    questions_object = read_questions(student["student_id"], date["date"], domain, teacher["teacher_id"])
+                                    if questions_object:
+                                        teacher["follow-up-questions"] = questions_object
+                                        print(teacher["follow-up-questions"])
                 date["domains"].append(dict(domain_object))
             date.pop("nested_data", None)
-    print(json.dumps(json_final, indent=4))
+    #print(json.dumps(json_final, indent=4))
 
     return json_final      
+
 
 entry_level_csv_file_path = r'entry-level.csv'
 follow_up_csv_file_path = r'follow-up.csv'
 json_file_path = r'output.json'
 categories_json_path = r'categories.csv'
+questions_file_path = r'questions.csv'
 categories_dict = read_categories_json(categories_json_path)
-entry_level_json = entry_level_to_json(entry_level_csv_file_path, categories_dict)
-write_json_to_file(entry_level_json, json_file_path)
+questions_df = pd.read_csv(questions_file_path) 
+output_json = csv_to_json(entry_level_csv_file_path, categories_dict)
+write_json_to_file(output_json, json_file_path)
 #print("categories")
 #print(categories_dict)
 
